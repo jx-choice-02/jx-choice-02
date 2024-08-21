@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Choice speaking. It is another account for me. 
+This is Choice speaking. 
 
 📫 35bigpig@gmail.com
 
