@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This is Choice speaking. It is another account for me. 
+
+📫 35bigpig@gmail.com
+
+
 <!--
 **jx-choice-02/jx-choice-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
