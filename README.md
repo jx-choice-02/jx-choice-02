@@ -4,6 +4,8 @@ This is Choice speaking.
 
 📫 35bigpig@gmail.com
 
+Stat Arb/Market Making
+
 
 <!--
 **jx-choice-02/jx-choice-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
