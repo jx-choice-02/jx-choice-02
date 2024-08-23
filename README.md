@@ -1,7 +1,3 @@
-## Hi there 👋
-
-This is Choice speaking. 
-
 📫 35bigpig@gmail.com
 
 Stat Arb/Market Making
